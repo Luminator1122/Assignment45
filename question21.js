@@ -28,7 +28,6 @@ studentArray.push(Student4);
 //check one by one consoles
 //console.log(Student1)
 console.log(studentArray);
-//console.log(studentArray)
 // to  change the name of any student ...give command as
 // Student1.name="Zeeshan"
 // console.log(Student1)
