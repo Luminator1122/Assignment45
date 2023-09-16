@@ -21,3 +21,4 @@ function make_shirt3(size:string,)
     console.log("My Shirt should of size -",size,"- and '",txt,"' should b printed on it")
 }
 make_shirt3("-Extra Large-")
+export {};

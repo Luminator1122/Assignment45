@@ -30,3 +30,4 @@ for (let index = 0; index < pizzaNames.length; index++) {
     }
 }
 console.log("I am always very keen to have pizza at lunch. I always like to eat pizza with friends who also like pizza. Behari Pizza and Kababish pizza are very tasty and Malai Boti is also very saucy and delicious. I like all pizza")
+export {};
