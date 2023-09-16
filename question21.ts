@@ -7,6 +7,7 @@
 // • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False..
 
 let my_Places = {
+    
     Data_Darbar : 'lahore',
     Badshahi_Mosque : 'lahore',
     Shrine_of_Lal_Shahbaz_Qalandar : 'Sehwan Sharif Sindh',
