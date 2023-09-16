@@ -3,6 +3,7 @@
 
 let namesofFriends:string[]=["Zahid", "Usman","Kamran","Sufyan"]
 console.log("Hellos dear",namesofFriends[0],"hope you will be fine")
-console.log("Assalam O Alaikum",namesofFriends[1],"How do u do!!")
-console.log("Hi !",namesofFriends[2], "I need to see u plz")
-console.log("AOA, Mr.",namesofFriends[3],"Where are you right now")
+console.log("Hellos dear",namesofFriends[1],"hope you will be fine")
+console.log("Hellos dear",namesofFriends[2],"hope you will be fine")
+console.log("Hellos dear",namesofFriends[3],"hope you will be fine")
+
