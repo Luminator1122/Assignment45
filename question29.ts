@@ -6,10 +6,7 @@ let userNames:string[]=["Admin","Mohsin","Arjun", "Karan"]
 
 for (let index = 0; index < userNames.length; index++) {
     var element = userNames[index];
-    userNames.pop()
-    userNames.pop()
-    userNames.pop()
-    userNames.pop()
+    userNames.splice(0,4)
 if (element=userNames[index])
 {
     console.log("Welcome Sir..",element)
